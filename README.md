@@ -1,6 +1,6 @@
 ### Hola, I'm Arijit 👋
 
-- 🔭 I’m currently working on an air quality index predictor.
+- 🔭 I’m currently working on deep learning projects.
 - 🌱 I’m currently learning data science.
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with NLP.
