@@ -7,4 +7,4 @@
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: linkedin - https://www.linkedin.com/in/arijitchoudhury99/
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend a lot of time on twitter.
+- ⚡ Fun fact: I spend a lot of time on Hackerrank.
